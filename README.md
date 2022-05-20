@@ -9,3 +9,4 @@ Contact
 
 Steps
 Design navbar that'll go on every page
+Sleep amd tired 
