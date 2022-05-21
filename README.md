@@ -7,6 +7,5 @@ Portfolio/Work
 About (maybe contact)
 Contact
 
-Steps
-Design navbar that'll go on every page
-Sleep amd tired 
+Goals:
+Make the css and JS work correctly [x]
