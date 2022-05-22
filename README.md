@@ -9,4 +9,5 @@ Contact
 
 Goals:
 Make the css and JS work correctly [x]
-audit previous project
+audit previous projects
+make work projects with DBs 
