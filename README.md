@@ -13,3 +13,6 @@ Todos:
 
 Image Credit:
 https://cooltext.com/Logo-Design-Neon - Created Name Logo
+
+Notes: 
+Resume tips: https://cooltext.com/Logo-Design-Neon
