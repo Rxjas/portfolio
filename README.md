@@ -7,7 +7,7 @@ Portfolio/Work
 About (maybe contact)
 Contact
 
-Goals:
-Make the css and JS work correctly [x]
-audit previous projects
-make work projects with DBs 
+Todos:
+Turn down the color on the logo (https://cooltext.com/Logo-Design-Neon)
+
+Image Credit:
