@@ -16,3 +16,4 @@ https://cooltext.com/Logo-Design-Neon - Created Name Logo
 
 Notes: 
 Resume tips: https://zety.com/blog/resume-introduction
+Avataaaar maker: https://getavataaars.com
