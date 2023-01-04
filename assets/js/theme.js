@@ -4,4 +4,3 @@ document.querySelectorAll('.datepicker').forEach(function(field) {
 	});
 });
 //note
-// 
