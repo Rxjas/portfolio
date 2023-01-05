@@ -3,4 +3,3 @@ document.querySelectorAll('.datepicker').forEach(function(field) {
 		field: field
 	});
 });
-// removed test
