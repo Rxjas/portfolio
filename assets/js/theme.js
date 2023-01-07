@@ -4,4 +4,3 @@ document.querySelectorAll('.datepicker').forEach(function(field) {
 	});
 });
 //There will more code here in the future
-// Hyped for the new last of us show
